@@ -1,5 +1,5 @@
-![65_7a's GitHub stats](https://github-readme-stats.vercel.app/api?username=65-7a&show_icons=true&theme=dracula)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=65-7a&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 Learning Java.  
 
