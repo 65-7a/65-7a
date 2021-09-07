@@ -1,4 +1,5 @@
-[![65_7a's GitHub stats](https://github-readme-stats.vercel.app/api?username=65-7a)](https://github.com/anuraghazra/github-readme-stats)
+![65_7a's GitHub stats](https://github-readme-stats.vercel.app/api?username=65-7a&show_icons=true&theme=dracula)
+
 
 Learning Java.  
 [Website](http://callumwong.com)  
